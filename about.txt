@@ -1,0 +1,30 @@
+What is DevOps?
+DevOps = Development + Operations
+It's a culture + set of practices + tools that help:
+   -> Developers (who write code)
+   -> Operations (who deploy/manage
+
+
+                PHASE                        DESCRIPTION
+   
+
+                Plan 
+                 |
+              Develop
+                 |
+               Built
+                 |
+            Test Mode
+                 |
+              Release
+                 |
+               Deploy
+                 |
+              Operate
+                 |
+              Monitor
+
+
+1. Create a GitHub  account, then create a new repository with a READ
+  
+                        
